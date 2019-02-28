@@ -1,5 +1,5 @@
 {
-  "name": "react-awesome-query-builder",
+  "name": "@documatrix/react-awesome-query-builder",
   "version": "0.2.12",
   "main1": "modules",
   "main": "build/npm/lib",
@@ -19,13 +19,16 @@
   "readme": "README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ukrbublik/react-awesome-query-builder.git"
+    "url": "https://github.com/documatrix/react-awesome-query-builder.git"
   },
   "author": "Sebastian Siemssen <fubhy@fubhy.com> (https://github.com/fubhy)",
   "contributors": [
     "ukrbubik"
   ],
   "license": "MIT",
+  "publishConfig": {
+    "registry": "https://hq.documatrix.com/npm/"
+  },
   "bugs": {
     "url": "https://github.com/ukrbublik/react-awesome-query-builder/issues"
   },
