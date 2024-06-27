@@ -341,7 +341,7 @@ const _validateValue = (config, field, operator, value, valueType, valueSrc) => 
             ];
             if (vSrc == 'field')
                 args.push(rightFieldDefinition);
-            isValid = isValid && fn(...args);
+            isValid = fn(...args);
         }
     }
     return isValid;
