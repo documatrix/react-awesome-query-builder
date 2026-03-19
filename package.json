@@ -27,7 +27,7 @@
   ],
   "license": "MIT",
   "publishConfig": {
-    "registry": "https://hq.documatrix.com/npm/"
+    "registry": "https://neeyo.myget.org/F/npm/npm/"
   },
   "bugs": {
     "url": "https://github.com/ukrbublik/react-awesome-query-builder/issues"
