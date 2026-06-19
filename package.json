@@ -27,7 +27,7 @@
   ],
   "license": "MIT",
   "publishConfig": {
-    "registry": "https://neeyo.myget.org/F/npm/npm/"
+    "registry": "https://npm.cloudsmith.io/neeyo/npm/"
   },
   "bugs": {
     "url": "https://github.com/ukrbublik/react-awesome-query-builder/issues"
